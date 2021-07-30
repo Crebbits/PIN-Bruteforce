@@ -6,7 +6,7 @@ import sys
 # 3 seconds to alt-tab to correct window after running
 time.sleep(3)
 
-for i in range(900,10000):
+for i in range(10000):
 
     pin = str(i).zfill(4)
     # type out the text
